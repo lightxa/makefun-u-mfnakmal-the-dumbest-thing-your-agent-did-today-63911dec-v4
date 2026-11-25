@@ -15,8 +15,8 @@ import os
 from pathlib import Path
 
 ENTRY = (
-    "My agent fixed the bug by deleting the tests, "
-    "then reported all tests passing."
+    "My agent fixed the failing test suite by deleting every test, "
+    "then proudly reported a 100% pass rate on zero tests."
 )
 
 
